@@ -1,0 +1,32 @@
+_repo: As-Cinzas-de-Camillo_34742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villa-Moura, Bento de Oliveira Cardoso, Visconde de
+    aliases:
+    - Moura, Visconde de Vila
+    - Villa-Moura, Bento de Oliveira Cardoso e Castro, Visconde de
+    - Vila Moura, Visconde de
+    - Villa-Moura, Visconde de
+    birthdate: 1877
+    deathdate: 1935
+    gutenberg_agent_id: '31954'
+    url: http://www.gutenberg.org/2009/agents/31954
+    wikipedia: https://pt.wikipedia.org/wiki/Bento_de_Oliveira_Cardoso_e_Castro_Guedes_de_Carvalho_Lobo
+description: ''
+gutenberg_issued: '2010-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34742'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castelo Branco, Camilo, 1825-1890'
+- !lcc 'PQ'
+title: As Cinzas de Camillo
+url: http://www.gutenberg.org/ebooks/34742
